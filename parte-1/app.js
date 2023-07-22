@@ -36,7 +36,6 @@ console.log(unLibro.getTitulo());
 
 let nuevolibro = new Libro('Fuego y Sangre', 'George R. R. Martin');
 let tituloDelNuevoLibro = nuevolibro.getTitulo();
-//console.log(nuevolibro.getTitulo());
 
 alert(tituloDelNuevoLibro);
 

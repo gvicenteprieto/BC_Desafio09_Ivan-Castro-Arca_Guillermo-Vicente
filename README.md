@@ -14,7 +14,6 @@
 
 - Desafío grupal del bootcamp de Full Stack de [educaciónIT](https://www.educacionit.com/)
 
-
 #### Parte 1
 
 - Crear dentro de la carpeta "parte-1" un archivo index.html e incluir en él el llamado a un archivo de JavaScript externo.
@@ -55,4 +54,5 @@ alert(tituloDelNuevoLibro);
 mostrarDatos('alert')   // Imprime "Fuego y Sangre, de GEORGE R. R. MARTIN" en una vantanita alert
 mostrarDatos('console') // Imprime "Fuego y Sangre, de GEORGE R. R. MARTIN" en la consola
 mostrarDatos()          // Imprime "Fuego y Sangre, de GEORGE R. R. MARTIN" en la consola
+
 No repetir código.
