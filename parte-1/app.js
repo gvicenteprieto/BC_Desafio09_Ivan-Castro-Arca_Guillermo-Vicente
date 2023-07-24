@@ -1,3 +1,4 @@
+"use strict";
 // 2
 class Libro {
     constructor(titulo, autor) {
